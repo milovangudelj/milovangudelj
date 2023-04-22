@@ -4,9 +4,11 @@ I'm Milo. A student and passionate web developer. I love building beautiful webs
 
 You can find me pretty much everywhere **@milovangudelj**
 
+
+[![Instagram](https://img.shields.io/static/v1?label=&logo=instagram&message=Instagram&logoColor=E4405F&labelColor=ffffff&color=E4405F)](https://instagram.com/milovangudelj)
+[![Mastodon](https://img.shields.io/static/v1?label=&logo=mastodon&message=Mastodon&logoColor=6364FF&labelColor=ffffff&color=6364FF)](https://mastodon.social/@ilikemartians)
 [![Twitter](https://img.shields.io/static/v1?label=&logo=twitter&message=Twitter&logoColor=1DA1F2&labelColor=ffffff&color=1DA1F2)](https://twitter.com/milovangudelj)
 [![LinkedIn](https://img.shields.io/static/v1?label=&logo=linkedin&message=LinkedIn&logoColor=0A66C2&labelColor=ffffff&color=0A66C2)](https://www.linkedin.com/in/milovangudelj/)
-[![Instagram](https://img.shields.io/static/v1?label=&logo=instagram&message=Instagram&logoColor=E4405F&labelColor=ffffff&color=E4405F)](https://instagram.com/milovangudelj)
 
 ![](https://stats.milovangudelj.com/api?username=milovangudelj&show_icons=true&theme=github_dark)
 
