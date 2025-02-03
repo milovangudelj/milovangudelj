@@ -1,6 +1,6 @@
 # Hi!
 
-I'm Milo. A student and passionate web developer. I love building beautiful websites and web applications, and I'm obsessed with the UX and UI of everything I build.
+I'm Milo. A passionate web developer. I love building beautiful websites and web applications, and I'm obsessed with the UX and UI of everything I build.
 
 You can find me pretty much everywhere **@milovangudelj** or **@milo.jpg**
 
