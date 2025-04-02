@@ -10,6 +10,6 @@ You can find me pretty much everywhere **@milovangudelj** or **@milo.jpg**
 [![Twitter](https://img.shields.io/static/v1?label=&logo=twitter&message=Twitter&logoColor=1DA1F2&labelColor=ffffff&color=1DA1F2)](https://twitter.com/milovangudelj)
 [![LinkedIn](https://img.shields.io/static/v1?label=&logo=linkedin&message=LinkedIn&logoColor=0A66C2&labelColor=ffffff&color=0A66C2)](https://www.linkedin.com/in/milovangudelj/)
 
-![](https://stats.milovangudelj.com/api?username=milovangudelj&show_icons=true&theme=github_dark)
+![](https://stats.milo.im/api?username=milovangudelj&show_icons=true&theme=github_dark)
 
-![](https://stats.milovangudelj.com/api/top-langs/?username=milovangudelj&layout=compact&theme=github_dark&hide=html,css,php&langs_count=6)
+![](https://stats.milo.im/api/top-langs/?username=milovangudelj&layout=compact&theme=github_dark&hide=html,css,php&langs_count=6)
